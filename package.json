@@ -1,0 +1,9 @@
+{
+  "name": "aws-container-cicd-guide",
+  "version": "1.0.0",
+  "description": "GitHub Actions + ECR/ECS 自動デプロイのサンプルアプリケーション",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
